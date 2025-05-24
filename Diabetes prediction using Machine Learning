@@ -1,0 +1,10 @@
+
+cd path/to/diabetes_prediction  # go to the extracted folder
+git init
+git add .
+git commit -m "Initial commit - Diabetes prediction ML project"
+git branch -M main
+git remote add origin https://github.com/Muhammad051097/diabetes-prediction-ml.git
+git push -u origin main
+
+Replace path/to/diabetes_prediction with the actual path on your computer.
